@@ -1,2 +1,2 @@
 print 'Hello word!'
-print 'This is dev branch!'
+print 'This is master branch!'
